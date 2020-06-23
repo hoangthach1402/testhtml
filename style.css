@@ -1,0 +1,19 @@
+div {
+    text-align: left;
+    text-indent: 2em;
+    text-transform: uppercase;
+}
+
+body {
+    word-spacing: 3px;
+    
+}
+
+#heading {
+    background: hotpink;
+    text-align: center;
+    border-left-style: ridge;
+    border-top-style: groove;
+    border-right-style: dotted;
+    border-radius: ;
+}
